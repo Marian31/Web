@@ -37,6 +37,7 @@ p{
 	min-height: 64px;
 }
 .page-navigation li{
+	padding-top: 22px;
 	float: left;
 	width: 100px;
 }
@@ -109,6 +110,7 @@ button:hover{
 	color: yellowgreen;
 }
 .collection-text p{
+	display: block;
 	min-height: 50px;
 	overflow: hidden;
 	white-space: nowrap;
